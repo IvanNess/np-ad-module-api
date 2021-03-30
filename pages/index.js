@@ -1,7 +1,5 @@
-import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import axios from 'axios'
-import { Carousel } from 'antd'
 
 export default function Home() {
 
